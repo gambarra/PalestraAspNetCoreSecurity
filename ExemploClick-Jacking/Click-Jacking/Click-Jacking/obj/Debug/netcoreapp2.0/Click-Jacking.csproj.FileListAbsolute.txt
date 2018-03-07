@@ -1,0 +1,8 @@
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\bin\Debug\netcoreapp2.0\Click-Jacking.deps.json
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\bin\Debug\netcoreapp2.0\Click-Jacking.runtimeconfig.json
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\bin\Debug\netcoreapp2.0\Click-Jacking.runtimeconfig.dev.json
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\bin\Debug\netcoreapp2.0\Click-Jacking.dll
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\obj\Debug\netcoreapp2.0\Click-Jacking.csprojResolveAssemblyReference.cache
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\obj\Debug\netcoreapp2.0\Click-Jacking.csproj.CoreCompileInputs.cache
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\obj\Debug\netcoreapp2.0\Click-Jacking.AssemblyInfoInputs.cache
+E:\Palestras\Segurança com.net core\ExemploClick-Jacking\Click-Jacking\Click-Jacking\obj\Debug\netcoreapp2.0\Click-Jacking.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\bin\Debug\netcoreapp2.0\ApplicationWithSSL.deps.json
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\bin\Debug\netcoreapp2.0\ApplicationWithSSL.runtimeconfig.json
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\bin\Debug\netcoreapp2.0\ApplicationWithSSL.runtimeconfig.dev.json
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\bin\Debug\netcoreapp2.0\ApplicationWithSSL.dll
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\bin\Debug\netcoreapp2.0\ApplicationWithSSL.pdb
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\obj\Debug\netcoreapp2.0\ApplicationWithSSL.csprojResolveAssemblyReference.cache
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\obj\Debug\netcoreapp2.0\ApplicationWithSSL.csproj.CoreCompileInputs.cache
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\obj\Debug\netcoreapp2.0\ApplicationWithSSL.AssemblyInfoInputs.cache
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\obj\Debug\netcoreapp2.0\ApplicationWithSSL.AssemblyInfo.cs
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\obj\Debug\netcoreapp2.0\ApplicationWithSSL.dll
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithSSL\ApplicationWithSSL\obj\Debug\netcoreapp2.0\ApplicationWithSSL.pdb

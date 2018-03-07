@@ -1,0 +1,11 @@
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\bin\Debug\netcoreapp2.0\ApplicationCSRF.deps.json
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\bin\Debug\netcoreapp2.0\ApplicationCSRF.runtimeconfig.json
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\bin\Debug\netcoreapp2.0\ApplicationCSRF.runtimeconfig.dev.json
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\bin\Debug\netcoreapp2.0\ApplicationCSRF.dll
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\bin\Debug\netcoreapp2.0\ApplicationCSRF.pdb
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\obj\Debug\netcoreapp2.0\ApplicationCSRF.csprojResolveAssemblyReference.cache
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\obj\Debug\netcoreapp2.0\ApplicationCSRF.csproj.CoreCompileInputs.cache
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\obj\Debug\netcoreapp2.0\ApplicationCSRF.AssemblyInfoInputs.cache
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\obj\Debug\netcoreapp2.0\ApplicationCSRF.AssemblyInfo.cs
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\obj\Debug\netcoreapp2.0\ApplicationCSRF.dll
+E:\Palestras\Segurança com.net core\ExemploCSRF\ApplicationCSRF\ApplicationCSRF\obj\Debug\netcoreapp2.0\ApplicationCSRF.pdb

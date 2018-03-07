@@ -1,0 +1,8 @@
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\bin\Debug\netcoreapp2.0\ApplicationWithHSTS.deps.json
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\bin\Debug\netcoreapp2.0\ApplicationWithHSTS.runtimeconfig.json
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\bin\Debug\netcoreapp2.0\ApplicationWithHSTS.runtimeconfig.dev.json
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\bin\Debug\netcoreapp2.0\ApplicationWithHSTS.dll
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\obj\Debug\netcoreapp2.0\ApplicationWithHSTS.csprojResolveAssemblyReference.cache
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\obj\Debug\netcoreapp2.0\ApplicationWithHSTS.csproj.CoreCompileInputs.cache
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\obj\Debug\netcoreapp2.0\ApplicationWithHSTS.AssemblyInfoInputs.cache
+E:\Palestras\Segurança com.net core\ExemploSSL\ApplicationWithHSTS\ApplicationWithHSTS\ApplicationWithHSTS\obj\Debug\netcoreapp2.0\ApplicationWithHSTS.AssemblyInfo.cs

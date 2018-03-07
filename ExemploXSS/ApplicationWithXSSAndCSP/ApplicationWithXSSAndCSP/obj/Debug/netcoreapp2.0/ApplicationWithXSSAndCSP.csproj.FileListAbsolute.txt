@@ -1,0 +1,8 @@
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\bin\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.deps.json
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\bin\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.runtimeconfig.json
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\bin\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.runtimeconfig.dev.json
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\bin\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.dll
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\obj\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.csprojResolveAssemblyReference.cache
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\obj\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.csproj.CoreCompileInputs.cache
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\obj\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.AssemblyInfoInputs.cache
+E:\Palestras\Segurança com.net core\ExemploXSS\ApplicationWithXSSAndCSP\ApplicationWithXSSAndCSP\obj\Debug\netcoreapp2.0\ApplicationWithXSSAndCSP.AssemblyInfo.cs
